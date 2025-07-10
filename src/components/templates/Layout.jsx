@@ -1,9 +1,9 @@
-import {Outlet} from "react-router-dom";
+import { Outlet } from 'react-router-dom';
 
 export const Layout = () => {
-    return (
-        <div className={'w-screen min-h-screen'}>
-            <Outlet/>
-        </div>
-    )
-}
+  return (
+    <div className={'min-h-screen w-screen'}>
+      <Outlet />
+    </div>
+  );
+};

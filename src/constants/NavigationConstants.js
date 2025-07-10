@@ -1,4 +1,4 @@
-export default{
-    HOME : "/",
-    LOGIN : "/login",
-}
+export default {
+  HOME: '/',
+  LOGIN: '/login',
+};

@@ -1,5 +1,3 @@
-import Loader from "@/components/atoms/Loader.jsx";
+import Loader from '@/components/atoms/Loader.jsx';
 
-export {
-    Loader
-}
+export { Loader };

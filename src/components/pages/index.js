@@ -1,6 +1,4 @@
-import {Home} from "./Home.jsx";
-import {Login} from "./Login.jsx";
+import { Home } from './Home.jsx';
+import { Login } from './Login.jsx';
 
-export {
-    Home, Login
-}
+export { Home, Login };

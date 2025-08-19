@@ -8,6 +8,7 @@ import StorageQueriesReducer from './StorageQueries.js';
 const persistConfig = {
   key: 'root',
   storage,
+  blacklist: ['APIQueries'],
 };
 
 const rootReducer = combineReducers({
